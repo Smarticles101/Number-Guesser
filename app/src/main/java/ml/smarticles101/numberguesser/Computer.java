@@ -21,11 +21,13 @@ public class Computer extends AppCompatActivity {
         status = (TextView)findViewById(R.id.status);
         currentGuess = 0;
         iteration = 0;
+		high=100;
+		low=0;
         makeGuess(50);
     }
 
     public void lower(View view) {
-        high = currentGuess+1;
+        high = currentGuess-1;
         makeGuess((low+high)/2);
     }
 
@@ -34,7 +36,7 @@ public class Computer extends AppCompatActivity {
     }
 
     public void higher(View view) {
-        low = currentGuess-1;
+        low = currentGuess+1;
         makeGuess((low+high)/2);
     }
 
