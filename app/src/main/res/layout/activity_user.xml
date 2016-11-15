@@ -17,10 +17,11 @@
         android:layout_height="wrap_content"
         android:layout_centerInParent="true">
         <EditText
+            android:inputType="number"
             android:layout_weight="1"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:text="Guess"
+            android:hint="Guess"
             android:id="@+id/input"/>
         <Button
             android:layout_width="wrap_content"
@@ -32,5 +33,5 @@
         android:id="@+id/status"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/inputBar"/>
+        android:layout_above="@+id/inputBar"/>
 </RelativeLayout>

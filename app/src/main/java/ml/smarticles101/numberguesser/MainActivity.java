@@ -15,18 +15,18 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void displayInfo(View view) {
+    public void info(View view) {
         Intent i = new Intent(this, Info.class);
         startActivity(i);
     }
 
     public void computer(View view) {
-        Intent i = new Intent(this, Computer.class);
+        Intent i = new Intent(this, ToComputer.class);
         startActivity(i);
     }
 
     public void user(View view) {
-        Intent i = new Intent(this, User.class);
+        Intent i = new Intent(this, ToUser.class);
         startActivity(i);
     }
 }

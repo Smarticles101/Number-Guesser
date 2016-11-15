@@ -1,5 +1,6 @@
 package ml.smarticles101.numberguesser;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -18,12 +19,14 @@ public class Computer extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_computer);
+		getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         status = (TextView)findViewById(R.id.status);
+		Intent i = getIntent();
         currentGuess = 0;
         iteration = 0;
-		high=100;
-		low=0;
-        makeGuess(50);
+		high=i.getIntExtra(ToComputer.MAX, 100);
+		low=i.getIntExtra(ToComputer.MIN, 0);
+        makeGuess((high+low)/2);
     }
 
     public void lower(View view) {

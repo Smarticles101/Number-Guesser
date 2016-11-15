@@ -41,6 +41,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Info"
-            android:onClick="displayInfo"/>
+            android:onClick="info"/>
     </android.support.v7.widget.ButtonBarLayout>
 </RelativeLayout>

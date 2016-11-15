@@ -15,12 +15,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".InfoActivity.info" />
-        <activity android:name=".computer.computer" />
-        <activity android:name=".user.User" />
-        <activity android:name="ml.smarticles101.numberguesser.Info" />
-        <activity android:name="ml.smarticles101.numberguesser.Computer" />
-        <activity android:name="ml.smarticles101.numberguesser.User"></activity>
-    </application>
+		<activity android:name="ml.smarticles101.numberguesser.ToUser"
+			android:parentActivityName="ml.smarticles101.numberguesser.MainActivity"/>
+		<activity android:name="ml.smarticles101.numberguesser.ToComputer"
+			android:parentActivityName="ml.smarticles101.numberguesser.MainActivity"/>
+		
+        <activity android:name="ml.smarticles101.numberguesser.Info" 
+			android:parentActivityName="ml.smarticles101.numberguesser.MainActivity"/>
+        <activity android:name="ml.smarticles101.numberguesser.Computer" 
+			android:parentActivityName="ml.smarticles101.numberguesser.ToComputer"/>
+        <activity android:name="ml.smarticles101.numberguesser.User"
+			android:parentActivityName="ml.smarticles101.numberguesser.ToUser"/>
+		
+	</application>
 
 </manifest>
