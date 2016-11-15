@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_7eed4731fc0b9a2f20ccaeae044255693c5b2c9e/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_82cc64411316e3f42854a473b7832e02d6adba3f/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_8b0820387b6c4e4666ba4efb89e0f49c9e9cf57b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/stuckil/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_57ee1cb83df626514d76ba16bcbd5a67452060a9/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f2fe20deb6460263ca88abb3d69a0e0566061689">
+        <dex dex="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_31423fd63a1faee297e7e5bf32393ee48c8fe07d/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_d69dffc03c92febdecd8611dd176a879f707aa35/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_888b6e1587e2ad06505248c2f8666fb750494e61/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_33fb901430f089d7ab771bcb57431310775f74d5/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_cca04a754a9ab9946e25b752b1f8893d0042e173/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_68d3db00367caabeb1c3046b42b59cd7a9d4633a/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_aec91c37b3a36e97020540cedfd3ec94b8c4f6c4/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_d791c691f54713f65b41831e67ef21b2e6f0356a/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_6681aa7baa4536c84d088fbaca296415e15344bc/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_7bceffbc115170592a9521d2885c66ff5e9dddaf/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_6890d388ec3e42aa3a587c4a8832cea0097389a2/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8e3d2ba42fce45b39e81ae2fc19dd82016a2c010">
+        <dex dex="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c4fd4b8f836da342f1c663cd415bd3b5eacbee7b/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Volumes/LOGANSFLASH/Android-Projects/Number-Guesser/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_5e0c8d55a04989723dea4cb1903969863e561d7d/classes.dex" />
+    </item>
+
+</items>
